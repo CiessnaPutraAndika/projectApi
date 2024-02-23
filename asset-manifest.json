@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CiessnaPutraAndika/projectApi.git/static/css/main.e87828cf.css",
+    "main.js": "/CiessnaPutraAndika/projectApi.git/static/js/main.b84b2ab2.js",
+    "index.html": "/CiessnaPutraAndika/projectApi.git/index.html",
+    "main.e87828cf.css.map": "/CiessnaPutraAndika/projectApi.git/static/css/main.e87828cf.css.map",
+    "main.b84b2ab2.js.map": "/CiessnaPutraAndika/projectApi.git/static/js/main.b84b2ab2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e87828cf.css",
+    "static/js/main.b84b2ab2.js"
+  ]
+}
